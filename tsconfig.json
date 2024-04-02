@@ -25,7 +25,8 @@
       "**/*.tsx",
       "src/app/(main)/blogs/page.jsx",
       "src/app/layout.jsx",
-      "src/app/about/page.jsx"
+      "src/app/about/page.jsx",
+      "src/app/page.jsx"
    ],
    "exclude": ["node_modules"]
 }
